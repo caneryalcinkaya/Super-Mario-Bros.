@@ -1,6 +1,3 @@
-// CanerYalcinkaya
-// 2024400273
-
 import java.awt.*;
 import java.awt.event.KeyEvent;
 import java.util.ArrayList;
