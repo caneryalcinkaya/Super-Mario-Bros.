@@ -1,6 +1,3 @@
-// CanerYalcinkaya
-// 2024400273
-
 import java.awt.event.KeyEvent;
 
 public class Map {
